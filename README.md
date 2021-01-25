@@ -6,4 +6,4 @@ ELECTRA takes as input the electronic bandstructure and certain scattering param
 
 ELECTRA is written in MATLAB® and makes use of the Parallel Computing Toolbox™. A version ported in C language exists, but it is still under test.
 
-The input instruction file and some input data are reported as examples. The Graphical User Interface to prepare the input instructions will be added shortly.
+The compressed folder containes all the source coded needed to run ELECTRA plus the input file and some input data as examples. The Graphical User Interface to prepare the input instructions will be added shortly.
