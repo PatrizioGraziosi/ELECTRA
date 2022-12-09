@@ -7,4 +7,8 @@ ELECTRA is written in MATLABÂ® and makes use of the Parallel Computing Toolboxâ„
 
 The ELECTRA_v1 folder contains all the source coded needed to run ELECTRA plus the input file and some input data as examples. 
 
+The "tests" folder contains test exmaple on individual scattering mechanims.
+
+The ElectraPlot_v1_for_redistribution_files_only contains a stand-alone app (it requires Matlab runtime) to plot, and save in .csv format, the ELECTRA results without having Matlab installed.
+
 contact: patrizio.graziosi@cnr.it
