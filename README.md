@@ -11,4 +11,7 @@ The "tests" folder contains test exmaple on individual scattering mechanims.
 
 The ElectraPlot_v1_for_redistribution_files_only contains a stand-alone app (it requires Matlab runtime) to plot, and save in .csv format, the ELECTRA results without having Matlab installed.
 
+
+In the post-processing directory, the user can find post-processing scripts to plot the transport coefficients along crystal axes and in crystal planes.
+
 contact: patrizio.graziosi@cnr.it
